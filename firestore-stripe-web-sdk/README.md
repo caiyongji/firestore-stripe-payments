@@ -1,3 +1,7 @@
+# Cai's comment 
+> This project is forked from [@invertase/firestore-stripe-payments@0.0.7](https://github.com/invertase/stripe-firebase-extensions/tree/next/firestore-stripe-web-sdk).  
+> As it was using outdated **Firebase** dependencies, I have updated the dependencies to the latest versions.
+
 # Firestore Stripe Payments Web SDK
 
 This package helps you integrate your web app client with the
